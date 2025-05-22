@@ -1,0 +1,47 @@
+
+body{
+  background-color: rgb(195, 173, 173);
+}
+
+.full-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#outer-box{
+
+  margin-top: 50px;
+  border: 1px solid black;
+  display: grid;
+  width: 500px;
+  height: 500px;
+
+}
+
+.turn-token{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-items{
+  font-size-adjust: 1;
+  display: flex;
+  font-family: comic 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(165, 177, 187);
+
+}
